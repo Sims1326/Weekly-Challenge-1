@@ -70,6 +70,7 @@ p {
     margin-left: 25px;
 }
 
+
 .content {
     width: 75%;
     display: inline-block;
@@ -87,17 +88,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+aside article {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -112,12 +103,14 @@ h3 {
     text-align: center;
 }
 
+/* displays aside icons in block */
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Set section article size, font family, text and background color */
 section article {
     margin-bottom: 20px;
     padding: 50px;
@@ -126,7 +119,7 @@ section article {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Set max height of all section article img tas" */
 section article img {
     max-height: 200px;
 }
