@@ -5,4 +5,4 @@ SO THAT our own site is optimized for search engines
 
 https://sims1326.github.io/Weekly-Challenge-1/
 
-![](doc/assets/imagesHoriseon%20Screenshot.png)
+![](doc/assets/images/Horiseon%20Screenshot.png)
