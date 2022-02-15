@@ -1,8 +1,8 @@
-User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+User Story    
+AS A marketing agency   
+I WANT a codebase that follows accessibility standards   
+SO THAT our own site is optimized for search engines   
 
 https://sims1326.github.io/Weekly-Challenge-1/
 
-![](doc/assets/images/Horiseon%20Screenshot.png)
+<img src= "docs/assets/images/Horiseon%20Screenshot.png" />
